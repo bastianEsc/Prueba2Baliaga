@@ -1,0 +1,25 @@
+.Titulo1{
+    color:rgb(126, 98, 5) /*Cambio de color Titulo*/
+}
+
+.Subti{
+    color:rgb(167, 182, 33) /*Cambio de color Sub1*/
+}
+
+.Parrafo1{
+    color: rgba(255, 238, 0, 0.658); /*Cambio de color Parrafo 1*/
+}
+.Parrafo2{
+    color:rgb(119, 111, 5) /*Cambio de color Parrafo 1*/
+}
+
+.Parrafo3{
+    color:rgb(123, 129, 37) /*Cambio de color Parrafo3 */
+}
+
+.Parrafo4{
+    color:darkorange /*Cambio de color Parrafo4 */
+}
+#fondo{
+    background-color: rgb(176, 228, 35); /*Agregar color al fondo del primer texto 1*/
+}
